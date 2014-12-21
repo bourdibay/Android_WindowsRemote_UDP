@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DesktopMouseController</string>
+    <string name="action_settings">Settings</string>
+    <string name="btConnect">Connect</string>
+    <string name="btLeftClick">Left click</string>
+    <string name="btRightClick">Right click</string>
+
+</resources>

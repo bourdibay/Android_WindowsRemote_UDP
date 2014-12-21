@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="touchView" type="id">viewTouch</item>
+    <item name="btConnect" type="id">btConnect</item>
+    <item name="btLeftClick" type="id">btLeftClick</item>
+    <item name="btRightClick" type="id">btRightClick</item>
+</resources>
