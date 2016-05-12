@@ -1,4 +1,4 @@
-WindowsDesktopMouseControllerFromAndroid
+Android_WindowsRemote_UDP
 ========================================
 
 This is my first Android project. The goal of it is to control the mouse of a computer on Windows with the Android phone.
@@ -11,7 +11,7 @@ I send UDP requests from Android to Windows to get the commands to run on the de
 
 #### The Windows server
 
-I use the json minimalistic library [Jsmn](https://bitbucket.org/zserge/jsmn/wiki/Home).
+I use the json minimalistic library [Jsmn](https://github.com/zserge/jsmn).
 You just need to run cmake with no additional options. The server has been coded in C.
 Then compile it and run it normally. The cursor cannot be moved within windows that have been started with higher privileges. Thus it is adivsed to run it as administrator.
 
